@@ -1,4 +1,4 @@
-# delivery
+# Continuous Delivery of Flask Application on GCP
 
 1. Setting up this application on Google Cloud:
 
